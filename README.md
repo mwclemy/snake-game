@@ -25,3 +25,13 @@ In its simplest form, the player uses the arrow keys to move a "snake" around th
 - Ask the player to restart the game, before initializing everything when the game is lost.
 - Keep track of the player's highest score
 
+## Game Screenshots
+
+1.  First screen
+![First screen](images/page1.png?raw=true)
+
+2.  Game lost
+![First screen](images/game-lost.png?raw=true)
+
+
+
