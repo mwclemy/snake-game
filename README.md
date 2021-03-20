@@ -28,10 +28,10 @@ In its simplest form, the player uses the arrow keys to move a "snake" around th
 ## Game Screenshots
 
 1.  First screen
-![First screen](images/page1.png?raw=true)
+![First screen](assets/images/page1.png?raw=true)
 
 2.  Game lost
-![First screen](images/game-lost.png?raw=true)
+![First screen](assets/images/game-lost.png?raw=true)
 
 
 
