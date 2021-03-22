@@ -1,12 +1,16 @@
 class Food {
-    constructor(x, y, image) {
-        this.x = x;
-        this.y = y;
+    constructor(foodPosition, image) {
+        this.foodPosition = foodPosition;
         this.image = image;
     }
-    drawFood(ctx) {
-        ctx.drawImage(this.image, this.x, this.y);
+
+    updateFood(newPosition) {
+        this.foodPosition = newPosition;
     }
+    drawFood(ctx) {
+        ctx.drawImage(this.image, this.foodPosition.x, this.foodPosition.y);
+    }
+
 }
 
 export default Food
