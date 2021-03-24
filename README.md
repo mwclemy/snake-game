@@ -31,7 +31,7 @@ In its simplest form, the player uses the arrow keys to move a "snake" around th
 ![First screen](assets/images/page1.png?raw=true)
 
 2.  Game lost
-![First screen](assets/images/game-lost.png?raw=true)
+![First screen](assets/images/page2.png?raw=true)
 
 
 
