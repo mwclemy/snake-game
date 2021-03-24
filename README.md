@@ -21,7 +21,6 @@ In its simplest form, the player uses the arrow keys to move a "snake" around th
 - Initialize the game when the snake moves off the screen of the canvas.
 
 ## Stetch goals
-- Add a reset button
 - Ask the player to restart the game, before initializing everything when the game is lost.
 - Keep track of the player's highest score
 
@@ -30,8 +29,9 @@ In its simplest form, the player uses the arrow keys to move a "snake" around th
 1.  First screen
 ![First screen](assets/images/page1.png?raw=true)
 
+
 2.  Game lost
-![First screen](assets/images/page2.png?raw=true)
+![Game lost](assets/images/page2.png?raw=true)
 
 
 
