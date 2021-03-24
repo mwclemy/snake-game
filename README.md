@@ -23,6 +23,7 @@ In its simplest form, the player uses the arrow keys to move a "snake" around th
 ## Stetch goals
 - Ask the player to restart the game, before initializing everything when the game is lost.
 - Keep track of the player's highest score
+- Add audio sounds
 
 ## Game Screenshots
 
