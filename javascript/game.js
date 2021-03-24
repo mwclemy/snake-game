@@ -69,6 +69,7 @@ let hasGameStarted = false;
 // keep track of the highest score
 let highestScore = localStorage.getItem('highestScore');
 if (!highestScore) {
+    highestScore = 0;
     localStorage.setItem('highestScore', 0);
 }
 
